@@ -33,4 +33,4 @@ in transforming data into meaningful business insights.
 - Business Intelligence
 
 ## 🤝 Let's Connect
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/praharsha-reddy-chandupatla-7211662a4
