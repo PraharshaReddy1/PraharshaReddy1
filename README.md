@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**PraharshaReddy1/PraharshaReddy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Praharsha Reddy 👋
 
-Here are some ideas to get you started:
+### MBA Business Analytics Student | Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I am an MBA Business Analytics student with a
+background in Information Technology, interested
+in transforming data into meaningful business insights.
+
+## 💻 Technical Skills
+- Python
+- SQL
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Power BI
+
+## 📊 Projects
+- Sales Performance Dashboard using Excel
+- Dyslexia Vision Using Deep Learning
+- AI Therapist Chatbot
+
+## 🎓 Education
+- MBA – Business Analytics | Lovely Professional University
+- B.Tech – Information Technology | VBIT
+
+## 🌱 Currently Learning
+- Advanced Excel
+- SQL
+- Power BI
+- Business Intelligence
+
+## 🤝 Let's Connect
+- LinkedIn: Add your LinkedIn URL here
